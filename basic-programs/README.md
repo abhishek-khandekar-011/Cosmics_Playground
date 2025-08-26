@@ -11,5 +11,6 @@ Most programs are written in **Python**, with a few examples in other languages.
 | Guess the Number  | Python     | A number guessing game using random numbers        |
 | Fibonacci Series  | Python     | Generate Fibonacci sequence up to n terms          |
 | Encode & Decode   | Python     | Generate encoded & decoded text for original text  |
+| Password Generator| Python     | Generate Password using Python random module       |
 
 
