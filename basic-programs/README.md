@@ -12,7 +12,7 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🟢 | Fibonacci Series         | Python     | Generate Fibonacci sequence up to n terms         |
 | 🟡 | Encode & Decode          | Python     | Encode and decode text using Caesar cipher        |
 | 🔴 | Password Generator       | Python     | Generate passwords using Python `random` module   |
-| 🔵 | Rock-Paper-Scissor Game  | Python     | A fun game between the user & computer            |
+| 🔵 | Black Jack Card Game     | Python     | A fun game between the user & computer            |
 | 🔵 | Spell Duel Game          | Python     | A fun duel spell game between the user & computer (Harry Potter) |
 | 🟢 | Blind Auction Bidding    | Python     | An Auction bidding ( Blinds bidder's name)        |
 
