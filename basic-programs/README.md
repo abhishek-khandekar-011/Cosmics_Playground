@@ -13,7 +13,7 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🟡 | Encode & Decode          | Python     | Encode and decode text using Caesar cipher        |
 | 🔴 | Password Generator       | Python     | Generate passwords using Python `random` module   |
 | 🔵 | Black Jack Card Game     | Python     | A fun game between the user & computer            |
-| 🔴 | Higher or Lower Follower Guesser      | Python     | A fun way to guess who has more followers amoung two |
+| 🔴 | Higher or Lower Followers Guesser      | Python     | A fun way to guess who has more followers among two |
 | 🟢 | Blind Auction Bidding    | Python     | An Auction bidding ( Blinds bidder's name)        |
 | 🔵 | Spell Duel Game          | Python     | A fun duel spell game between the user & computer (Harry Potter) |
 
