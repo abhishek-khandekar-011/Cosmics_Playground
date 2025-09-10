@@ -31,7 +31,7 @@ public Class Q_Sort{
             int pi = partition(arr, low, high);
             sort(arr, low, pi - 1);
             sort(arr, pi + 1, high);
-       \
+       
       }
     }
 
