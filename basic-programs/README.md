@@ -16,7 +16,7 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🔴 | Higher or Lower Followers Guesser      | Python     | A fun way to guess who has more followers among two |
 | 🟢 | Blind Auction Bidding    | Python     | An Auction bidding ( Blinds bidder's name)        |
 | 🔵 | Spell Duel Game          | Python     | A fun duel spell game between the user & computer (Harry Potter) |
-| 🔴 | Coffee Machine           | Python     | A Coffee Machine which can handle coffees flavors, costs, and its resource ingredients |
+| 🔴 | Coffee Machine           | Python     | A Coffee Machine which handles coffees flavors, costs, and its resource ingredients based on the customer's needs |
 
 
 
