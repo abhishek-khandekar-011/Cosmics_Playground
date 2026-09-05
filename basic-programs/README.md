@@ -17,8 +17,8 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🟢 | Blind Auction Bidding    | Python     | An Auction bidding ( Blinds bidder's name)        |
 | 🔵 | Spell Duel Game          | Python     | A fun duel spell game between the user & computer (Harry Potter) |
 | 🔴 | Coffee Machine           | Python     | A Coffee Machine which handles coffees flavors, costs, and its resource ingredients based on the customer's needs |
-| 🔵 | Miles to Kilometers GUI     | Python     | GUI for Miles to Kms Conerter |
-| 🟢 | Pomodoro Timer   | Python     | Pomodoro Timer create with TKinter        |
+| 🔵 | Miles to Kilometers GUI     | Python     | GUI for Miles to Kms Converter |
+| 🟢 | Pomodoro Timer   | Python     | Pomodoro Timer created with TKinter        |
 
 
 
