@@ -19,7 +19,6 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🔴 | Coffee Machine           | Python     | A Coffee Machine which handles coffees flavors, costs, and its resource ingredients based on the customer's needs |
 | 🔵 | Miles to Kilometers GUI     | Python     | GUI for Miles to Kms Converter |
 | 🟢 | Pomodoro Timer   | Python     | Pomodoro Timer created with TKinter        |
-
 | 🔴 | Password Manager| Python     | Stores Password in cipher format and manages it|
 
 
