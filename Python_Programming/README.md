@@ -21,6 +21,7 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🟢 | Pomodoro Timer   | Python     | Pomodoro Timer created with TKinter        |
 | 🔴 | Password Manager| Python     | Stores Password in cipher format and manages it|
 | 🔵 | NatoAlpha     | Python     | Generates words from NATO alphabets |
+| 🔴 | Flashy | Python     | Generates flashcards for language translation [English-French]|
 
 
 
