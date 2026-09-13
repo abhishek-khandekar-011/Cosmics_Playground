@@ -22,6 +22,7 @@ Most programs are written in **Python**, with a few examples in other languages.
 | 🔴 | Password Manager| Python     | Stores Password in cipher format and manages it|
 | 🔵 | NatoAlpha     | Python     | Generates words from NATO alphabets |
 | 🔴 | Flashy | Python     | Generates flashcards for word translation [English-French]|
+| 🟢 | Email Birthday Wisher   | Python     | Wishes birthday to the desired email using SMTPlib and datetime module      |
 
 
 
