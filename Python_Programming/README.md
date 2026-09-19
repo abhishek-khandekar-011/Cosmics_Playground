@@ -1,30 +1,24 @@
-# Basic Programs 🐍💻
-
-This folder contains simple programs to practice basic programming concepts.  
-Most programs are written in **Python**, with a few examples in other languages.
-
 ## Projects Included
 
-| ⭐ | Project Name             | Language    | Description                                         |
-|---|--------------------------|------------|----------------------------------------------------|
-| 🔴 | Calculator               | Python     | A simple calculator supporting basic operations   |
-| 🔵 | Guess the Number         | Python     | A number guessing game using random numbers       |
-| 🟢 | Fibonacci Series         | Python     | Generate Fibonacci sequence up to n terms         |
-| 🟡 | Encode & Decode          | Python     | Encode and decode text using Caesar cipher        |
-| 🔴 | Password Generator       | Python     | Generate passwords using Python `random` module   |
-| 🔵 | Black Jack Card Game     | Python     | A fun game between the user & computer            |
-| 🔴 | Higher or Lower Followers Guesser      | Python     | A fun way to guess who has more followers among two |
-| 🟢 | Blind Auction Bidding    | Python     | An Auction bidding ( Blinds bidder's name)        |
-| 🔵 | Spell Duel Game          | Python     | A fun duel spell game between the user & computer (Harry Potter Theme) |
-| 🔴 | Coffee Machine           | Python     | A Coffee Machine which handles coffees flavors, costs, and its resource ingredients based on the customer's needs |
-| 🔵 | Miles to Kilometers GUI     | Python     | GUI for Miles to Kms Converter |
-| 🟢 | Pomodoro Timer   | Python     | Pomodoro Timer created with TKinter        |
-| 🔴 | Password Manager| Python     | Stores Password in cipher format and manages it|
-| 🔵 | NatoAlpha     | Python     | Generates words from NATO alphabets |
-| 🔴 | Flashy | Python     | Generates flashcards for word translation [English-French]|
-| 🟢 | Email Birthday Wisher   | Python     | Wishes birthday to the desired mail recipient using SMTPlib and datetime module      |
-
-
-
-
-
+| ⭐ | Project Name | Tech Stack & Concepts | Summary |
+|---|---|---|---|
+| 🔴 | **Calculator** | Python (Functions, Recursion) | Basic arithmetic calculator |
+| 🔵 | **Guess the Number** | Python (`random`, Scope) | Number guessing game |
+| 🟢 | **Fibonacci Series** | Python (Loops, Sequences) | Generates Fibonacci numbers |
+| 🟡 | **Encode & Decode** | Python (Strings, Caesar Cipher) | Encrypts and decrypts text |
+| 🔴 | **Password Generator** | Python (`random`, Strings) | Generates secure random passwords |
+| 🔵 | **Blackjack Game** | Python (Lists, OOP Rules) | Card game vs. computer dealer |
+| 🔴 | **Higher or Lower** | Python (Dictionaries, Loops) | Follower count comparison game |
+| 🟢 | **Blind Auction** | Python (Dictionaries, OS) | Silent bidding console app |
+| 🔵 | **Spell Duel Game** | Python (Conditionals, Random) | Harry Potter themed duel game |
+| 🔴 | **Coffee Machine** | Python (OOP, State Management) | Simulates resources & sales |
+| 🔵 | **Miles to Kms** | `tkinter` | Unit converter GUI app |
+| 🟢 | **Pomodoro Timer** | `tkinter`, Canvas, Threading | Productivity countdown timer |
+| 🔴 | **Password Manager** | `tkinter`, `json`, `pyperclip` | Encrypted credential saver |
+| 🔵 | **NATO Phonetic** | `pandas`, List Comprehensions | Converts text to NATO code |
+| 🔴 | **Flashy App** | `tkinter`, `pandas`, `CSV` | Flashcard app with auto-flip |
+| 🟢 | **Birthday Wisher** | `smtplib`, `datetime`, `pandas` | Automated email greeting sender |
+| 🟡 | **Kanye Quotes** | `tkinter`, REST API (`requests`) | Fetches random quotes from API |
+| 🔴 | **ISS Notifier** | REST API, `smtplib`, Geolocation | Email alert when ISS is overhead |
+| 🔵 | **Rain Alert App** | OpenWeather API, Twilio API | SMS notification for rain forecast |
+| 🟢 | **Quizzler App** | `tkinter`, OOP, OpenTB API | Interactive trivia quiz GUI app |
