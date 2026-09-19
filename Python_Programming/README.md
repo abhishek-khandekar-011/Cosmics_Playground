@@ -1,8 +1,9 @@
 
 
-## 🐍 Python Programming & 100 Days of Code Projects
+## 🐍 Python Programming
 
-Below is the structured overview of all Python projects, utilities, games, and GUI applications built across the curriculum:
+Below is the structured overview of all Python projects.
+These are the projects taught under the course: **100 DAYS OF CODE PYTHON PRO BOOTCAMP** by Instructor Dr. Angela Yu
 
 | ⭐ | Project Name | Tech Stack | Core Concepts | Description |
 | :---: | :--- | :--- | :--- | :--- |
