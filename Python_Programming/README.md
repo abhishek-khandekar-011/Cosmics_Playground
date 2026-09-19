@@ -3,7 +3,7 @@
 ## 🐍 Python Programming
 
 Below is the structured overview of all Python projects.
-These are the projects taught under the course: **100 DAYS OF CODE PYTHON PRO BOOTCAMP** by Instructor Dr. Angela Yu
+These are the projects built & taught under the course: **100 DAYS OF CODE PYTHON PRO BOOTCAMP** by Instructor Dr. Angela Yu
 
 | ⭐ | Project Name | Tech Stack | Core Concepts | Description |
 | :---: | :--- | :--- | :--- | :--- |
