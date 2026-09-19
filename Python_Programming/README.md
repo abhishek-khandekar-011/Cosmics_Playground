@@ -1,4 +1,4 @@
----
+
 
 ## 🐍 Python Programming & 100 Days of Code Projects
 
@@ -42,4 +42,3 @@ Below is the structured overview of all Python projects, utilities, games, and G
 | 🟠 | GUI Quiz App | `requests`, `tkinter` | API, HTML Unescape | Trivia app with dynamic API questions. |
 | 🔴 | Rain Alert App | `requests`, `twilio` | API Auth, SMS | Sends weather SMS alerts via Twilio. |
 
----
