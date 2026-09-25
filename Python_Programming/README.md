@@ -42,4 +42,6 @@ These are the projects built & taught under the course: **100 DAYS OF CODE: THE 
 | 🟤 | ISS Overhead Notifier | `requests`, `smtplib` | REST APIs, Sunrise | Email alert when ISS passes overhead. |
 | 🟠 | GUI Quiz App | `requests`, `tkinter` | API, HTML Unescape | Trivia app with dynamic API questions. |
 | 🔴 | Rain Alert App | `requests`, `twilio` | API Auth, SMS | Sends weather SMS alerts via Twilio. |
+|🟢| Habit Tracking Project | requests, datetime | API POST/PUT, Headers, Auth | Tracks habits visually using Pixela pixel graphs.|
+|🔵| Exercise Tracking with Python & Google Sheets | requests, datetime | Natural Language Processing, API Headers | Logs workouts using Nutritionix NLP API and records data automatically to Google Sheets via Sheety API.|
 
